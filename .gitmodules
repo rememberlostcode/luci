@@ -1,0 +1,3 @@
+[submodule "applications/luci-app-advancedplus"]
+	path = applications/luci-app-advancedplus
+	url = https://github.com/sirpdboy/luci-app-advancedplus.git
