@@ -1,3 +1,7 @@
 [submodule "applications/luci-app-advancedplus"]
 	path = applications/luci-app-advancedplus
 	url = https://github.com/sirpdboy/luci-app-advancedplus.git
+[submodule "themes/luci-theme-kucat"]
+	path = themes/luci-theme-kucat
+	branch = js
+	url = https://github.com/sirpdboy/luci-theme-kucat.git
