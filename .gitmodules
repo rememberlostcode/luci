@@ -5,3 +5,6 @@
 	path = themes/luci-theme-kucat
 	branch = js
 	url = https://github.com/sirpdboy/luci-theme-kucat.git
+[submodule "themes/luci-theme-argon"]
+	path = themes/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
